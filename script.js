@@ -49,7 +49,10 @@ const odds = game.odds;
 
 console.log("Team 1 Players:", players1);
 console.log("Team 2 Players:", players2);
+console.log("All 22 Players:", allPlayers);
 console.log("მეკარეები:");
+console.log(`  ${game.team1}: ${gk1}`);
+console.log(`  ${game.team2}: ${gk2}`);
 console.log(`  ${game.team1}: ${gk1}`);
 console.log(`  ${game.team2}: ${gk2}`);
 console.log("კოეფიცენტები:");
